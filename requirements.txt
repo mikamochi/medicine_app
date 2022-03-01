@@ -1,4 +1,4 @@
 pandas
-scikit-learn==0.0
+scikit-learn
 django==2.2
 gunicorn
