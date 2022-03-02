@@ -1,5 +1,6 @@
 from django.shortcuts import render
 import pandas as pd
+from scipy.sparse import csr_matrix
 import pickle
 
 category_data = pd.read_csv("idx2category.csv")
